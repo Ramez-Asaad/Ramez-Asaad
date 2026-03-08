@@ -1,4 +1,4 @@
-Building smart things with code :)
+# Building smart things with code :)
 
 
 ## 🌐 Socials:
