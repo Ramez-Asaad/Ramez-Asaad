@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Building smart things with code :)
 
 
